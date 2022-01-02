@@ -1,0 +1,26 @@
+
+body {
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+img {
+    height: 200px;
+    width: 400px;
+}
+
+h2,.detail {
+    width: 400px;
+}
+
+h2 {
+    padding-top: 40px;
+}
+
+.detail {
+    padding-bottom: 40px;
+}
